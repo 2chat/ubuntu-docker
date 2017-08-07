@@ -12,4 +12,4 @@ RUN apt-get update \
   && apt-get clean \
 # install wget build-essential and software-properties-common
   && apt-get install -y --no-install-recommends build-essential \
-  wget software-properties-common  
+  wget software-properties-common
