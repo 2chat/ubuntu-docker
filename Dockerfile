@@ -1,4 +1,4 @@
-FROM ubuntu: xenial
+FROM ubuntu:xenial
 LABEL maintainer="roma.gordeev@gmail.com"
 
 ## add russian UTF-8 locale and set LANG and LC_ALL env variables
